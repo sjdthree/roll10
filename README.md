@@ -6,7 +6,6 @@ made for python 3.5
 
 Modules:
 matplotlib needed for testing and displaying histograms
-needs randint 
 
 % pip install matplotlib
 
