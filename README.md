@@ -14,3 +14,4 @@ python3 roll10.py
 results of tests:
 Run 1,000,000 rolls, show distribution of results:
 
+![alt text](https://github.com/sjdthree/roll10/roll10output.png)
